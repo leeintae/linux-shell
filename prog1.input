@@ -1,0 +1,11 @@
+pwd
+
+cat out.txt | wc
+
+ls -l
+
+echo "Hello"
+
+ls
+
+cat out.txt | wc -l
